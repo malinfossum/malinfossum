@@ -1,21 +1,27 @@
 # 👋 Hi there, I’m Malin Fossum
 
-### 🌍 Creating technology with empathy and impact.
+### 🌱 IT student at GET Academy (Start IT)  
+### 🌍 Creating technology with empathy and impact
 
 From **social work to software**, I’m on a journey to combine empathy and technology to create solutions that make a real difference.  
-I’m currently learning to become a **Full-Stack Engineer**, blending my passion for people with my love for tech.
+I’m currently studying IT at **GET Academy (Start IT)**, focusing on solid fundamentals and learning how to build thoughtful, accessible, and reliable software.
+
+I bring a strong background in communication, human-centered thinking, and empathy — and I’m learning how to combine that with clean, intentional code.
 
 ---
 
-## 🧠 About Me  
-💻 Learning through [Codecademy’s Full-Stack Engineer path](https://www.codecademy.com/career-journey/full-stack-engineer)  
-🐍 Exploring **JavaScript**, **Python**, and everything in between  
-💡 Passionate about **user-centered design**, **accessibility**, and **purposeful tech**  
-🐾 Proud dog & cat parent, lifelong gamer, and curious learner  
+## 🧠 About Me
+
+- 🎓 IT student at **GET Academy (Start IT)**
+- 💡 Background in social work with a strong focus on empathy, accessibility, and inclusion
+- 💻 Exploring **JavaScript**, **Python**, and modern web fundamentals
+- 🧠 Curious, reflective, and motivated by meaningful, real-world impact
+- 🐾 Proud dog & cat parent, lifelong gamer, and continuous learner
 
 ---
 
-## 🌱 My Journey  
+## 🌱 My Journey
+
 > From social work to software — learning to build technology that helps people thrive.  
 >  
 > I believe empathy and technology together can make a difference.  
@@ -23,7 +29,16 @@ I’m currently learning to become a **Full-Stack Engineer**, blending my passio
 
 ---
 
-## 🧰 Tech & Tools (in progress)  
+## 🎯 Current Focus
+
+- Web fundamentals (HTML, CSS, JavaScript)
+- Accessibility-first and user-centered design
+- Building small, well-documented projects
+- Learning deeply before scaling complexity
+
+---
+
+## 🧰 Tech & Tools (in progress)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
@@ -34,13 +49,15 @@ I’m currently learning to become a **Full-Stack Engineer**, blending my passio
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-*(Currently learning — this list will keep growing!)*
+*(Currently learning — this list will grow as my skills and projects evolve.)*
 
 ---
 
-## 📫 Get in touch  
-📧 [malinfossum.dev@proton.me](mailto:malinfossum.dev@proton.me)  
-💻 [github.com/malinfossum](https://github.com/malinfossum)
+## 📫 Get in touch
+
+📧 **Email:** [malinfossum.dev@proton.me](mailto:malinfossum.dev@proton.me)  
+💻 **GitHub:** [github.com/malinfossum](https://github.com/malinfossum)  
+🌐 **Portfolio:** https://malinfossum.github.io/portfolio-website/
 
 ---
 
