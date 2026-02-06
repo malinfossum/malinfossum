@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/malinfossum/portfolio-website/main/MalinFossum_Banner_Web.png" alt="Malin Fossum — Banner" />
 </p>
 
-<p align="center">
-  <strong>Tech with empathy. Code with purpose.</strong>
-</p>
-
 ---
 
 ## Hi, I’m Malin Fossum
