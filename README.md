@@ -5,54 +5,48 @@
 
 ---
 
-## Hi, I’m Malin Fossum
+## Malin Fossum
 
-I’m an IT student at **GET Academy (Start IT)**, transitioning from social work to software development.  
-I focus on **accessibility, user-centered design, and clean fundamentals**, and I value learning deeply before scaling complexity.
+IT student at Get Academy (Start IT), transitioning into software development with a background in social work.
+
+I focus on accessibility, user-centered design, and strong fundamentals — learning deeply before scaling complexity.
 
 ---
 
 ## Current Focus
-- Web fundamentals (HTML, CSS, JavaScript)
-- Accessibility-first and user-centered design
-- Small, real projects with clear documentation
-- Building habits for long-term maintainability
+- HTML, CSS, and JavaScript fundamentals  
+- MVC and separation of concerns  
+- Accessibility and user-centered design  
+- Building small, well-documented applications
 
 ---
 
 ## Featured Work
 
-### GET Academy — Learning Index
-A curated index of my ongoing study projects and exercises from GET Academy.
-
-This repository reflects *how I work*:
-- gradual skill progression
-- clear structure and documentation
-- focus on fundamentals over shortcuts
-
-**Repo:** https://github.com/malinfossum/getacademy
-
----
-
 ### Portfolio Website
-My personal portfolio — intentionally minimal, accessible, and performance-focused.
-
-Built to grow alongside my skills and reflect where I am right now.
+Minimal, accessible, performance-focused portfolio built with semantic HTML and structured CSS.
 
 **Live:** https://malinfossum.github.io/portfolio-website/  
 **Repo:** https://github.com/malinfossum/portfolio-website
 
 ---
 
-## Tech & Tools (in progress)
+### Get Academy — Learning Index
+A curated index of my ongoing study projects and exercises from Get Academy.
+
+**Repo:** https://github.com/malinfossum/getacademy
+
+---
+
+## Technical Stack
 <p>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=1572B6&cacheSeconds=86400&v=5" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MVC-111111?style=for-the-badge&logo=stackshare&logoColor=ffffff" alt="MVC" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge" alt="VS Code" />
 </p>
 
 <sub>(Actively learning — this list evolves as my projects do.)</sub>
@@ -60,9 +54,11 @@ Built to grow alongside my skills and reflect where I am right now.
 ---
 
 ## About Me
-- Background in social work with a strong focus on empathy, accessibility, and inclusion  
-- I value calm design, readable code, and intentional structure  
-- Proud cat & dog parent (cats are my spirit animal)
+
+- Social work background with a focus on empathy and accessibility    
+- Intentional, structured approach to design and development  
+- Lifelong learner 
+- Cat & dog parent
 
 ---
 
