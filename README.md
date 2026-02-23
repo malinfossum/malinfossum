@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/malinfossum/portfolio-website/main/MalinFossum_Banner_Web.png" alt="Malin Fossum — Banner" />
+  <img src="banner.png" alt="Malin Fossum — Banner" />
 </p>
 
 ---
