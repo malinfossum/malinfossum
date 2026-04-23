@@ -5,41 +5,39 @@
 
 ---
 
-## Malin Fossum
+# Malin Fossum
 
-Software development student at Get Academy with a background in social work.
+Developer in training, building clean, maintainable software with empathy, clarity, and strong fundamentals.
 
-I build with empathy, clarity, and strong fundamentals — learning deeply before scaling complexity.
+I care about thoughtful structure, separation of concerns, accessibility, and solving real problems without unnecessary complexity.
 
 ---
 
-## Current Focus
+## How I build
 
-- HTML, CSS, and JavaScript fundamentals  
-- MVC and separation of concerns  
-- Accessibility and user-centered design  
-- Small, well-documented applications  
+- Start simple and build on solid fundamentals
+- Prefer clarity, maintainability, and separation of concerns
+- Focus on accessible, user-centered interfaces
+- Learn deeply before scaling complexity
 
 ---
 
 ## Featured Work
 
-### Portfolio
-Minimal, accessibility-focused portfolio built with semantic HTML and structured CSS.
+### Portfolio Website
+Minimal developer portfolio focused on structure, clarity, and accessibility.
 
 **Live:** https://malinfossum.github.io/portfolio/  
 **Repo:** https://github.com/malinfossum/portfolio
 
----
+### Ember Black
+A minimal dark VS Code theme designed with focus, contrast, and everyday usability in mind.
 
-### Get Academy — Learning Index
-A curated index of my ongoing study projects and exercises.
-
-**Repo:** https://github.com/malinfossum/getacademy
+**Repo:** https://github.com/malinfossum/ember-black
 
 ---
 
-## Technical Stack
+## Tech
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
@@ -51,16 +49,13 @@ A curated index of my ongoing study projects and exercises.
   <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge" alt="VS Code" />
 </p>
 
-<sub>Actively learning — this stack evolves with my projects.</sub>
+<sub>Core tools and technologies I use in my day-to-day learning and development.</sub>
 
 ---
 
-## About
+## Background
 
-- Social work background with an empathy-driven mindset  
-- Intentional, structured approach to design and development  
-- Lifelong learner  
-- Cat & dog parent  
+From social work to software development — bringing empathy, structure, and a human-centered mindset into technical work.
 
 ---
 
@@ -72,4 +67,4 @@ A curated index of my ongoing study projects and exercises.
 
 ---
 
-<sub>Tech with empathy. Code with purpose.</sub>
+<sub>Building clean, maintainable software.</sub>
