@@ -15,7 +15,7 @@
   ## How I build
 
   - Start simple and build on solid fundamentals
-  - Separation of concerns — strict MVC
+  - MVC: state in models, rendering in views, behavior in controllers
   - Accessible, user-centered interfaces by default
   - Learn deeply before scaling complexity
 
