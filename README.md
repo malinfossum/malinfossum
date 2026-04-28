@@ -4,7 +4,7 @@
 
   ---
 
-  # Malin Fossum
+  # Hi, I'm Malin.
 
   Student developer in Norway, building clean, accessible web apps with a focus on structure, clarity, and strong fundamentals.
 
