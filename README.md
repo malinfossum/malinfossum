@@ -33,7 +33,12 @@
   ## What I'm building
 
   <!-- DASHBOARD:START -->
-  <!-- DASHBOARD:END -->
+| Project | About | Lang | Updated |
+|---|---|---|---|
+| [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript | 2026-05-04 |
+
+**Stats:** 7 public repos · Top languages: JavaScript, Python, HTML · Last updated 2026-05-04 (UTC)
+<!-- DASHBOARD:END -->
 
   ---
 
