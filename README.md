@@ -32,6 +32,13 @@
 
   ---
 
+  ## What I'm building
+
+  <!-- DASHBOARD:START -->
+  <!-- DASHBOARD:END -->
+
+  ---
+
   ## Contact
 
   - Portfolio — <https://malinfossum.github.io/portfolio/>
