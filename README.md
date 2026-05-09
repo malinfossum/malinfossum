@@ -37,7 +37,7 @@ Currently learning IndexedDB, Service Workers, and Progressive Web App fundament
 |---|---|---|---|
 | [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript | 2026-05-05 |
 
-**Stats:** 7 public repos · Top languages: JavaScript, CSS, Python · Last updated 2026-05-08 (UTC)
+**Stats:** 8 public repos · Top languages: JavaScript, C#, CSS · Last updated 2026-05-09 (UTC)
 <!-- DASHBOARD:END -->
 
 ---
