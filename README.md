@@ -36,6 +36,10 @@ Currently learning IndexedDB, Service Workers, and Progressive Web App fundament
 | Project | About | Lang | Updated |
 |---|---|---|---|
 | [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript | 2026-05-14 |
+| [spindle](https://github.com/malinfossum/spindle) | — | JavaScript | 2026-05-13 |
+| [rock-paper-scissors](https://github.com/malinfossum/rock-paper-scissors) | — | C# | 2026-05-13 |
+| [profile-dashboard](https://github.com/malinfossum/profile-dashboard) | Generates a live dashboard section in my GitHub profile README. Python + GitHub Actions. | Python | 2026-05-04 |
+| [ember-black](https://github.com/malinfossum/ember-black) | OLED-first VS Code theme with warm Claude-inspired accents and distinct bracket colors. ADHD-friendly syntax hues. | JavaScript | 2026-04-22 |
 
 **Stats:** 12 public repos · Top languages: C#, JavaScript, CSS · Last updated 2026-05-14 (UTC)
 <!-- DASHBOARD:END -->
