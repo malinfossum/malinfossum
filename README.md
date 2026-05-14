@@ -15,7 +15,7 @@ Came to code from social work. The instinct — listening, meeting people where 
 ## How I build
 
 - Start simple and build on solid fundamentals
-- MVC: state in models, rendering in views, behavior in controllers
+- Remove before adding
 - Accessible, user-centered interfaces by default
 - Learn deeply before scaling complexity
 
