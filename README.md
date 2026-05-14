@@ -23,9 +23,10 @@ Came to code from social work. The instinct — listening, meeting people where 
 
 ## Tech
 
-HTML · CSS · JavaScript · Vite · Biome · Git
+JavaScript · HTML · CSS · C# · .NET · Python · Vite · Biome · Git
 
-Currently learning IndexedDB, Service Workers, and Progressive Web App fundamentals through
+Currently going deeper on C# and .NET 10 through Emne 3 at Get Academy, and on
+Progressive Web App fundamentals (IndexedDB, Service Workers) through
 [Ignite](https://github.com/malinfossum/ignite).
 
 ---
