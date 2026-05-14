@@ -34,15 +34,15 @@ Progressive Web App fundamentals (IndexedDB, Service Workers) through
 ## What I'm building
 
 <!-- DASHBOARD:START -->
-| Project | About | Lang | Updated |
+| Project | About | Language | Updated |
 |---|---|---|---|
-| [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript | 2026-05-14 |
-| [spindle](https://github.com/malinfossum/spindle) | — | JavaScript | 2026-05-13 |
-| [rock-paper-scissors](https://github.com/malinfossum/rock-paper-scissors) | — | C# | 2026-05-13 |
-| [profile-dashboard](https://github.com/malinfossum/profile-dashboard) | Generates a live dashboard section in my GitHub profile README. Python + GitHub Actions. | Python | 2026-05-04 |
-| [ember-black](https://github.com/malinfossum/ember-black) | OLED-first VS Code theme with warm Claude-inspired accents and distinct bracket colors. ADHD-friendly syntax hues. | JavaScript | 2026-04-22 |
+| [profile-dashboard](https://github.com/malinfossum/profile-dashboard) | Generates a live dashboard section in my GitHub profile README. Python + GitHub Actions. | Python | 14 May |
+| [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript | 14 May |
+| [spindle](https://github.com/malinfossum/spindle) | — | JavaScript | 13 May |
+| [rock-paper-scissors](https://github.com/malinfossum/rock-paper-scissors) | Console rock-paper-scissors in C# / .NET 10. MVC-style separation with NUnit tests. | C# | 13 May |
+| [ember-black](https://github.com/malinfossum/ember-black) | OLED-first VS Code theme with warm Claude-inspired accents and distinct bracket colors. ADHD-friendly syntax hues. | JavaScript | 22 Apr |
 
-**Stats:** 12 public repos · Top languages: C#, JavaScript, CSS · Last updated 2026-05-14 (UTC)
+**Stats:** 12 public repos · Top languages: C#, JavaScript, Python · Last updated 2026-05-14 (UTC)
 <!-- DASHBOARD:END -->
 
 ---
