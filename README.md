@@ -38,11 +38,11 @@ Progressive Web App fundamentals (IndexedDB, Service Workers) through
 |---|---|---|---|
 | [spindle](https://github.com/malinfossum/spindle) | A local music library for organizing physical LP and CD collections, built in vanilla JavaScript. | JavaScript | 26 May |
 | [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript | 26 May |
+| [kenaz](https://github.com/malinfossum/kenaz) | Private, local-first daily wellbeing check-in in C# - compassionate reflection, not passive tracking. | C# | 25 May |
 | [profile-dashboard](https://github.com/malinfossum/profile-dashboard) | Generates a live dashboard section in my GitHub profile README. Python + GitHub Actions. | Python | 14 May |
 | [rock-paper-scissors](https://github.com/malinfossum/rock-paper-scissors) | Console rock-paper-scissors in C# / .NET 10. MVC-style separation with NUnit tests. | C# | 14 May |
-| [ember-black](https://github.com/malinfossum/ember-black) | OLED-first VS Code theme with warm Claude-inspired accents and distinct bracket colors. ADHD-friendly syntax hues. | JavaScript | 22 Apr |
 
-**Stats:** 16 public repos · Top languages: C#, JavaScript, CSS · Last updated 2026-05-26 (UTC)
+**Stats:** 16 public repos · Top languages: C#, JavaScript, CSS · Last updated 2026-05-27 (UTC)
 <!-- DASHBOARD:END -->
 
 ---
