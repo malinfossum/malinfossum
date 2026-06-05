@@ -6,7 +6,7 @@
 
 # Hi, I'm Malin.
 
-Student developer in Norway, building clean, accessible web apps with a focus on structure, clarity, and strong fundamentals.
+Student developer in Norway, building clean, accessible apps — web and desktop — with a focus on structure, clarity, and strong fundamentals.
 
 Came to code from social work. The instinct — listening, meeting people where they are — now lives in how I build.
 
