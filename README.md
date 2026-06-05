@@ -23,9 +23,10 @@ Came to code from social work. The instinct — listening, meeting people where 
 
 ## Tech
 
-JavaScript · HTML · CSS · C# · .NET · Python · Vite · Biome · Git
+JavaScript · HTML · CSS · C# · .NET · WPF · Python · Vite · Biome · Git
 
-Currently going deeper on C# and .NET 10 through Emne 3 at Get Academy, and on
+Currently going deeper on C# and .NET 10 — through Emne 3 at Get Academy and
+the [Tidsro](https://github.com/malinfossum/tidsro) desktop app — and on
 Progressive Web App fundamentals (IndexedDB, Service Workers) through
 [Ignite](https://github.com/malinfossum/ignite).
 
