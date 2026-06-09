@@ -37,13 +37,13 @@ Progressive Web App fundamentals (IndexedDB, Service Workers) through
 <!-- DASHBOARD:START -->
 | Project | About | Language | Updated |
 |---|---|---|---|
+| [kenaz](https://github.com/malinfossum/kenaz) | Private, local-first daily wellbeing check-in in C# - compassionate reflection, not passive tracking. | C# | 9 Jun |
 | [tidsro](https://github.com/malinfossum/tidsro) | A calm, local-first desktop timer & alarm for Windows - never a flashy notification. | C# | 5 Jun |
-| [kenaz](https://github.com/malinfossum/kenaz) | Private, local-first daily wellbeing check-in in C# - compassionate reflection, not passive tracking. | C# | 4 Jun |
 | [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript | 4 Jun |
 | [spindle](https://github.com/malinfossum/spindle) | A local music library for organizing physical LP and CD collections, built in vanilla JavaScript. | JavaScript | 3 Jun |
 | [profile-dashboard](https://github.com/malinfossum/profile-dashboard) | Generates a live dashboard section in my GitHub profile README. Python + GitHub Actions. | Python | 14 May |
 
-**Stats:** 20 public repos · Top languages: C#, JavaScript, HTML · Last updated 2026-06-08 (UTC)
+**Stats:** 20 public repos · Top languages: C#, JavaScript, HTML · Last updated 2026-06-09 (UTC)
 <!-- DASHBOARD:END -->
 
 ---
