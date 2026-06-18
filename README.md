@@ -32,7 +32,7 @@ Progressive Web App fundamentals (IndexedDB, Service Workers) through
 
 ---
 
-## What I'm building
+## What I'm working on
 
 <!-- DASHBOARD:START -->
 | Project | About | Language | Updated |
