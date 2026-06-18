@@ -35,15 +35,16 @@ Progressive Web App fundamentals (IndexedDB, Service Workers) through
 ## What I'm working on
 
 <!-- DASHBOARD:START -->
-| Project | About | Language | Updated |
-|---|---|---|---|
-| [tidsro](https://github.com/malinfossum/tidsro) | A calm, local-first desktop timer & alarm for Windows - never a flashy notification. | C# | 17 Jun |
-| [kenaz](https://github.com/malinfossum/kenaz) | Private, local-first daily wellbeing check-in in C# - compassionate reflection, not passive tracking. | C# | 17 Jun |
-| [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript | 10 Jun |
-| [spindle](https://github.com/malinfossum/spindle) | A local music library for organizing physical LP and CD collections, built in vanilla JavaScript. | JavaScript | 3 Jun |
-| [profile-dashboard](https://github.com/malinfossum/profile-dashboard) | Generates a live dashboard section in my GitHub profile README. Python + GitHub Actions. | Python | 14 May |
+| Project | About | Language |
+|---|---|---|
+| [profile-dashboard](https://github.com/malinfossum/profile-dashboard) | Generates a live dashboard section in my GitHub profile README. Python + GitHub Actions. | Python |
+| [wend](https://github.com/wendhq/wend) ★ 2 | A free, open-source, accessible, dark-mode-first kanban board — a calm alternative to Trello. | CSS |
+| [tidsro](https://github.com/malinfossum/tidsro) ★ 1 | A calm, local-first desktop timer & alarm for Windows - never a flashy notification. | C# |
+| [kenaz](https://github.com/malinfossum/kenaz) | Private, local-first daily wellbeing check-in in C# - compassionate reflection, not passive tracking. | C# |
+| [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript |
+| [spindle](https://github.com/malinfossum/spindle) | A local music library for organizing physical LP and CD collections, built in vanilla JavaScript. | JavaScript |
 
-**Stats:** 22 public repos · Top languages: C#, JavaScript, CSS · Last updated 2026-06-18 (UTC)
+**Stats:** 10 public repos · Top languages: JavaScript, C#, Python · Last updated 2026-06-18 (UTC)
 <!-- DASHBOARD:END -->
 
 ---
