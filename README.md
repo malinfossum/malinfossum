@@ -44,7 +44,7 @@ Progressive Web App fundamentals (IndexedDB, Service Workers) through
 | [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript |
 | [spindle](https://github.com/malinfossum/spindle) | A local music library for organizing physical LP and CD collections, built in vanilla JavaScript. | JavaScript |
 
-**Stats:** 10 public repos · Top languages: JavaScript, C#, Python · Last updated 2026-06-18 (UTC)
+**Stats:** 10 original projects · Top languages: JavaScript, C#, Python · Last updated 2026-06-18 (UTC)
 <!-- DASHBOARD:END -->
 
 ---
