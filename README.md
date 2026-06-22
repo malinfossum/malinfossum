@@ -37,14 +37,14 @@ Progressive Web App fundamentals (IndexedDB, Service Workers) through
 <!-- DASHBOARD:START -->
 | Project | About | Language |
 |---|---|---|
-| [wend](https://github.com/wendhq/wend) ★ 2 | A free, open-source, accessible, dark-mode-first kanban board — a calm alternative to Trello. | CSS |
+| [wend](https://github.com/wendhq/wend) ★ 2 | A free, open-source, accessible, dark-mode-first kanban board — a calm alternative to Trello. | C# |
 | [tidsro](https://github.com/malinfossum/tidsro) ★ 1 | A calm, local-first desktop timer & alarm for Windows - never a flashy notification. | C# |
 | [profile-dashboard](https://github.com/malinfossum/profile-dashboard) | Generates a live dashboard section in my GitHub profile README. Python + GitHub Actions. | Python |
 | [kenaz](https://github.com/malinfossum/kenaz) | Private, local-first daily wellbeing check-in in C# - compassionate reflection, not passive tracking. | C# |
 | [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript |
 | [spindle](https://github.com/malinfossum/spindle) | A local music library for organizing physical LP and CD collections, built in vanilla JavaScript. | JavaScript |
 
-**Stats:** 10 original projects · Top languages: JavaScript, C#, Python · Last updated 2026-06-21 (UTC)
+**Stats:** 10 original projects · Top languages: JavaScript, C#, Python · Last updated 2026-06-22 (UTC)
 <!-- DASHBOARD:END -->
 
 ---
