@@ -19,8 +19,6 @@ Came to code from social work. The instinct, listening and meeting people where 
 
 JavaScript · HTML · CSS · C# · .NET · WPF · Python · Vite · Biome · Git
 
-Currently going deeper on C# and .NET through the [Tidsro](https://github.com/malinfossum/tidsro) desktop app, and on Progressive Web App fundamentals (IndexedDB, Service Workers) through [Ignite](https://github.com/malinfossum/ignite).
-
 ## What I'm working on
 
 <!-- DASHBOARD:START -->
