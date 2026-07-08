@@ -2,15 +2,11 @@
   <img src="banner.svg" alt="Malin Fossum — From social work to software" />
 </p>
 
----
-
 # Hi, I'm Malin.
 
-Student developer in Norway, building clean, accessible apps — web and desktop — with a focus on structure, clarity, and strong fundamentals.
+Developer in Norway, building clean, accessible apps for web and desktop with a focus on structure, clarity, and strong fundamentals.
 
-Came to code from social work. The instinct — listening, meeting people where they are — now lives in how I build.
-
----
+Came to code from social work. The instinct, listening and meeting people where they are, now lives in how I build.
 
 ## How I build
 
@@ -19,18 +15,11 @@ Came to code from social work. The instinct — listening, meeting people where 
 - Accessible, user-centered interfaces by default
 - Learn deeply before scaling complexity
 
----
-
 ## Tech
 
 JavaScript · HTML · CSS · C# · .NET · WPF · Python · Vite · Biome · Git
 
-Currently going deeper on C# and .NET 10 — through Emne 3 at Get Academy and
-the [Tidsro](https://github.com/malinfossum/tidsro) desktop app — and on
-Progressive Web App fundamentals (IndexedDB, Service Workers) through
-[Ignite](https://github.com/malinfossum/ignite).
-
----
+Currently going deeper on C# and .NET through the [Tidsro](https://github.com/malinfossum/tidsro) desktop app, and on Progressive Web App fundamentals (IndexedDB, Service Workers) through [Ignite](https://github.com/malinfossum/ignite).
 
 ## What I'm working on
 
@@ -47,10 +36,7 @@ Progressive Web App fundamentals (IndexedDB, Service Workers) through
 **Stats:** 10 original projects · Top languages: JavaScript, C#, CSS · Last updated 2026-07-08 (UTC)
 <!-- DASHBOARD:END -->
 
----
-
 ## Contact
 
-- Portfolio — <https://malinfossum.github.io/portfolio/>
-- LinkedIn — <https://linkedin.com/in/malinfossum>
-- Email — malinfossum.dev@proton.me
+- [Portfolio](https://malinfossum.github.io/portfolio/)
+- [LinkedIn](https://linkedin.com/in/malinfossum)
