@@ -24,14 +24,14 @@ JavaScript · HTML · CSS · C# · .NET · WPF · Python · Vite · Biome · Git
 <!-- DASHBOARD:START -->
 | Project | About | Language |
 |---|---|---|
-| [wend](https://github.com/wendhq/wend) ★ 2 | A free, open-source, accessible, dark-mode-first kanban board — a calm alternative to Trello. | C# |
-| [tidsro](https://github.com/malinfossum/tidsro) ★ 1 | A calm, local-first desktop timer & alarm for Windows - never a flashy notification. | C# |
-| [ignite](https://github.com/malinfossum/ignite) | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript |
-| [kenaz](https://github.com/malinfossum/kenaz) | Private, local-first daily wellbeing check-in in C# - compassionate reflection, not passive tracking. | C# |
+| [tidsro](https://github.com/malinfossum/tidsro) ★ 1 | A calm, local-first desktop timer & alarm for Windows. Never a flashy notification. | C# |
+| [wend](https://github.com/wendhq/wend) ★ 2 | A free, open-source, accessible, dark-mode-first kanban board. A calm alternative to Trello. | C# |
+| [ignite](https://github.com/malinfossum/ignite) ★ 1 | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript |
+| [kenaz](https://github.com/malinfossum/kenaz) | A private, local-first daily wellbeing check-in in C#. Compassionate reflection, not passive tracking. | C# |
 | [profile-dashboard](https://github.com/malinfossum/profile-dashboard) | Generates a live dashboard section in my GitHub profile README. Python + GitHub Actions. | Python |
-| [spindle](https://github.com/malinfossum/spindle) | A local music library for organizing physical LP and CD collections, built in vanilla JavaScript. | JavaScript |
+| [ember-black](https://github.com/malinfossum/ember-black) | OLED-first VS Code theme with warm Claude-inspired accents and distinct bracket colors. ADHD-friendly syntax hues. | JavaScript |
 
-**Stats:** 10 original projects · Top languages: JavaScript, C#, CSS · Last updated 2026-07-08 (UTC)
+**Stats:** 10 original projects · Top languages: JavaScript, C#, CSS · Last updated 2026-07-09 (UTC)
 <!-- DASHBOARD:END -->
 
 ## Contact
