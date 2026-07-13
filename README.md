@@ -30,7 +30,7 @@ JavaScript · HTML · CSS · C# · .NET · WPF · Python · Vite · Biome · Git
 | [kenaz](https://github.com/malinfossum/kenaz) | A private, local-first daily wellbeing check-in in C#. Compassionate reflection, not passive tracking. | C# |
 | [profile-dashboard](https://github.com/malinfossum/profile-dashboard) | Generates a live dashboard section in my GitHub profile README. Python + GitHub Actions. | Python |
 
-**Stats:** 10 original projects · Top languages: JavaScript, C#, CSS · Last updated 2026-07-12 (UTC)
+**Stats:** 11 original projects · Top languages: JavaScript, C#, HTML · Last updated 2026-07-13 (UTC)
 <!-- DASHBOARD:END -->
 
 ## Contact
