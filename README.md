@@ -18,7 +18,8 @@ Came to code from social work. The instinct, listening and meeting people where 
 ## Tech
 
 - **Frontend:** TypeScript · React · JavaScript · HTML · CSS
-- **C# / .NET:** ASP.NET Core · EF Core · PostgreSQL · WPF
+- **Backend:** C# · ASP.NET Core · EF Core · PostgreSQL
+- **Desktop:** C# · WPF · MVVM
 - **Tools:** Git · Vite · Vitest · NUnit · Claude Code
 
 ## What I'm working on
