@@ -11,13 +11,15 @@ Came to code from social work. The instinct, listening and meeting people where 
 ## How I build
 
 - Start simple and build on solid fundamentals
-- Remove before adding
-- Accessible, user-centered interfaces by default
-- Learn deeply before scaling complexity
+- Accessible by default: keyboard paths, screen reader support, dark mode from the first commit
+- Clear structure: state, rendering, and behavior each in their place
+- Open source by default: versioned releases, improved in the open
 
 ## Tech
 
-JavaScript · HTML · CSS · C# · .NET · WPF · Python · Vite · Biome · Git
+**Frontend:** TypeScript · React · JavaScript · HTML · CSS
+**C# / .NET:** ASP.NET Core · EF Core · PostgreSQL · WPF
+**Tools:** Git · Vite · Vitest · NUnit · Claude Code
 
 ## What I'm working on
 
