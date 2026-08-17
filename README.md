@@ -28,7 +28,7 @@ Came to code from social work. The instinct, listening and meeting people where 
 | Project | About | Language |
 |---|---|---|
 | [ignite](https://github.com/malinfossum/ignite)&nbsp;★&nbsp;1 | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript |
-| [varde](https://github.com/malinfossum/varde) | Bilingual directory of Norwegian social services with verified contact details - ASP.NET Core + PostgreSQL API, React web in progress | C# |
+| [varde](https://github.com/malinfossum/varde) | Bilingual directory of Norwegian social services with verified contact details. ASP.NET Core + PostgreSQL API, React + TypeScript web. | C# |
 | [wend](https://github.com/wendhq/wend)&nbsp;★&nbsp;2 | A free, open-source, accessible, dark-mode-first kanban board. A calm alternative to Trello. | C# |
 | [tidsro](https://github.com/malinfossum/tidsro)&nbsp;★&nbsp;1 | A calm, local-first desktop timer & alarm for Windows. Never a flashy notification. | C# |
 | [munin](https://github.com/malinfossum/munin) | Local semantic search over your AI memory files - recall by meaning, cited by source. No server, no API keys, no telemetry. | JavaScript |
