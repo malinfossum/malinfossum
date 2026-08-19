@@ -37,7 +37,18 @@ Came to code from social work. The instinct, listening and meeting people where 
 **Stats:** 13 original projects · Top languages: C#, JavaScript, CSS · Last updated 2026-08-19 (UTC)
 <!-- DASHBOARD:END -->
 
+## Open source
+
+I send accessibility fixes upstream to projects I use myself. Merged into [WinUtil](https://github.com/ChrisTitusTech/winutil):
+
+- [#4992](https://github.com/ChrisTitusTech/winutil/pull/4992) — screen reader names for the top-bar controls
+- [#4993](https://github.com/ChrisTitusTech/winutil/pull/4993) — accessible name for the font scaling slider
+
 ## Contact
 
 - [Portfolio](https://malinfossum.github.io/portfolio/)
 - [LinkedIn](https://linkedin.com/in/malinfossum)
+
+---
+
+*Working toward my first developer role. Building in the open until then.*
