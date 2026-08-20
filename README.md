@@ -27,14 +27,14 @@ Came to code from social work. The instinct, listening and meeting people where 
 <!-- DASHBOARD:START -->
 | Project | About | Language |
 |---|---|---|
-| [wend](https://github.com/wendhq/wend)&nbsp;★&nbsp;2 | A free, open-source, accessible, dark-mode-first kanban board. A calm alternative to Trello. | C# |
+| [varde](https://github.com/malinfossum/varde) | Bilingual directory of Norwegian social services with verified contact details. ASP.NET Core + PostgreSQL API, React + TypeScript web. | C# |
 | [hugin](https://github.com/malinfossum/hugin) | Command-line job radar for the Norwegian developer job market — watches Brreg and NAV for new companies and job ads, and tracks your outreach pipeline. | C# |
+| [wend](https://github.com/wendhq/wend)&nbsp;★&nbsp;2 | A free, open-source, accessible, dark-mode-first kanban board. A calm alternative to Trello. | C# |
 | [tidsro](https://github.com/malinfossum/tidsro)&nbsp;★&nbsp;1 | A calm, local-first desktop timer & alarm for Windows. Never a flashy notification. | C# |
 | [kenaz](https://github.com/malinfossum/kenaz) | A private, local-first daily wellbeing check-in in C#. Compassionate reflection, not passive tracking. | C# |
 | [ignite](https://github.com/malinfossum/ignite)&nbsp;★&nbsp;1 | ADHD-friendly, open-source task app. A small flame, kept going. | JavaScript |
-| [varde](https://github.com/malinfossum/varde) | Bilingual directory of Norwegian social services with verified contact details. ASP.NET Core + PostgreSQL API, React + TypeScript web. | C# |
 
-**Stats:** 13 original projects · Top languages: C#, JavaScript, CSS · Last updated 2026-08-19 (UTC)
+**Stats:** 13 original projects · Top languages: C#, JavaScript, CSS · Last updated 2026-08-20 (UTC)
 <!-- DASHBOARD:END -->
 
 ## Contact
