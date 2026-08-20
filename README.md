@@ -52,7 +52,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a> ★ 1: a calm desktop timer & alarm.
+<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a> ★ 1: a calm desktop timer &amp; alarm.
 
 <a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a> ★ 1: ADHD-friendly task app.
 
@@ -86,7 +86,9 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 <a href="https://github.com/wendhq/wend"><strong>wend</strong></a> ★ 2: a calm, accessible kanban board.
 
-<a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a>: a command-line job radar for the Norwegian dev market.
+<a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a> ★ 1: a command-line job radar for the Norwegian dev market.
+
+<a href="https://github.com/malinfossum/munin"><strong>munin</strong></a>: local semantic search over your AI memory files.
 
 </td>
 </tr>
@@ -102,13 +104,13 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 <img src="assets/oss-merged.svg" width="250" height="36" alt="3 pull requests merged upstream" />
 
-<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a> ★ 60.9k: accessibility & UX fixes: <a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a>
+<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a> ★ 60.9k: <a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a>
 
 </td>
 </tr>
 </table>
 
-<p align="center"><code>13 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>CSS</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-08-19</code></p>
+<p align="center"><code>13 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>Python</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-08-20</code></p>
 <!-- DASHBOARD:END -->
 
 ---
