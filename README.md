@@ -30,9 +30,9 @@ C# · ASP.NET Core · EF Core · PostgreSQL
 </td>
 <td valign="top" width="33%">
 
-<img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>Toolbelt</strong>
+<img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>Tools</strong>
 
-Git · Vite · Vitest · NUnit · Claude Code
+Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 </td>
 </tr>
@@ -54,16 +54,16 @@ Git · Vite · Vitest · NUnit · Claude Code
 
 <a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a> ★ 1: a calm desktop timer & alarm.
 
-<a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a> ★ 1: ADHD-friendly task app. A small flame, kept going.
+<a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a> ★ 1: ADHD-friendly task app.
 
 </td>
 </tr>
 <tr>
 <td valign="middle" width="30%">
 
-<img src="assets/chip-terracotta.svg" width="14" height="14" alt="" /> <strong>For the heavy days</strong>
+<img src="assets/chip-terracotta.svg" width="14" height="14" alt="" /> <strong>For the everyday</strong>
 
-<em>Quiet support, within reach.</em>
+<em>Making ordinary days a little easier.</em>
 
 </td>
 <td valign="top" width="70%">
