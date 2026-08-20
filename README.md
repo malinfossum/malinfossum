@@ -10,6 +10,8 @@ Came to code from social work. The instinct, listening and meeting people where 
 
 Social work also taught me that progress starts with showing up. On GitHub that means building in the open, and leaving the tools I use better than I found them.
 
+---
+
 ## Workflow
 
 <table align="center">
@@ -37,6 +39,8 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </td>
 </tr>
 </table>
+
+---
 
 ## What I'm working on
 
@@ -103,6 +107,8 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 <td valign="top" width="70%">
 
 <img src="assets/oss-merged.svg" width="250" height="36" alt="3 pull requests merged upstream" />
+
+<br/>
 
 <a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a> ★ 60.9k: <a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a>
 
