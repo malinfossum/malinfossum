@@ -4,47 +4,35 @@
 
 # Hi, I'm Malin.
 
-Fullstack developer in Norway: I build clean, accessible apps end to end, with a focus on structure, clarity, and strong fundamentals.
+Fullstack developer in Norway: I build clean, accessible apps end to end, with a focus on structure, clarity, and solid fundamentals.
 
 Came to code from social work. The instinct, listening and meeting people where they are, now lives in how I build.
 
-Social work also taught me that progress starts with showing up. On GitHub that means building in the open, and sending fixes upstream to the tools I use myself.
+Social work also taught me that progress starts with showing up. On GitHub that means building in the open, and leaving the tools I use better than I found them.
 
 ## Workflow
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 <img src="assets/chip-gold.svg" width="14" height="14" alt="" /> <strong>Frontend</strong>
 
 TypeScript · React · JavaScript · HTML · CSS
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 <img src="assets/chip-terracotta.svg" width="14" height="14" alt="" /> <strong>Backend</strong>
 
 C# · ASP.NET Core · EF Core · PostgreSQL
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 <img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>Toolbelt</strong>
 
 Git · Vite · Vitest · NUnit · Claude Code
-
-</td>
-<td valign="top" width="50%">
-
-<img src="assets/chip-purple.svg" width="14" height="14" alt="" /> <strong>How I build</strong>
-
-Simple first, on solid fundamentals<br/>
-Accessible by default: keyboard, screen reader, dark mode<br/>
-State, rendering, behavior: each in its place<br/>
-Open by default: versioned, improved in the open
 
 </td>
 </tr>
@@ -59,12 +47,12 @@ Open by default: versioned, improved in the open
 
 <img src="assets/chip-gold.svg" width="14" height="14" alt="" /> <strong>For focus</strong>
 
-<em>Calm tools for scattered attention.</em>
+<em>Calm tools, built for brains like mine.</em>
 
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a> ★ 1: a calm desktop timer & alarm. Never a flashy notification.
+<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a> ★ 1: a calm desktop timer & alarm.
 
 <a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a> ★ 1: ADHD-friendly task app. A small flame, kept going.
 
@@ -73,9 +61,9 @@ Open by default: versioned, improved in the open
 <tr>
 <td valign="middle" width="30%">
 
-<img src="assets/chip-terracotta.svg" width="14" height="14" alt="" /> <strong>For people</strong>
+<img src="assets/chip-terracotta.svg" width="14" height="14" alt="" /> <strong>For the heavy days</strong>
 
-<em>Built for the humans on the other side.</em>
+<em>Quiet support, within reach.</em>
 
 </td>
 <td valign="top" width="70%">
@@ -89,9 +77,9 @@ Open by default: versioned, improved in the open
 <tr>
 <td valign="middle" width="30%">
 
-<img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>For the work</strong>
+<img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>For momentum</strong>
 
-<em>The craft, and the road to the job.</em>
+<em>Overview and rhythm, for the long haul.</em>
 
 </td>
 <td valign="top" width="70%">
@@ -105,9 +93,9 @@ Open by default: versioned, improved in the open
 <tr>
 <td valign="middle" width="30%">
 
-<img src="assets/chip-purple.svg" width="14" height="14" alt="" /> <strong>For the dugnad</strong>
+<img src="assets/chip-purple.svg" width="14" height="14" alt="" /> <strong>For everyone</strong>
 
-<em>The Norwegian habit of showing up for shared work.</em>
+<em>Open source: showing up for the tools we share.</em>
 
 </td>
 <td valign="top" width="70%">
@@ -120,7 +108,7 @@ Open by default: versioned, improved in the open
 </tr>
 </table>
 
-<p align="center"><code>13 original projects</code> · <code>C# — JavaScript — CSS</code> · <code>updated 2026-08-19</code></p>
+<p align="center"><code>13 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>CSS</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-08-19</code></p>
 <!-- DASHBOARD:END -->
 
 ---
