@@ -4,20 +4,15 @@
 
 # Hi, I'm Malin.
 
-Developer in Norway, building clean, accessible apps for web and desktop with a focus on structure, clarity, and strong fundamentals.
+Fullstack developer in Norway: I build clean, accessible apps end to end, with a focus on structure, clarity, and strong fundamentals.
 
 Came to code from social work. The instinct, listening and meeting people where they are, now lives in how I build.
 
-## How I build
+Social work also taught me that progress starts with showing up. On GitHub that means building in the open, and sending fixes upstream to the tools I use myself.
 
-- Start simple and build on solid fundamentals
-- Accessible by default: keyboard paths, screen reader support, dark mode from the first commit
-- Clear structure: state, rendering, and behavior each in their place
-- Open source by default: versioned releases, improved in the open
+## Workflow
 
-## Toolbox
-
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="50%">
 
@@ -37,16 +32,19 @@ C# · ASP.NET Core · EF Core · PostgreSQL
 <tr>
 <td valign="top" width="50%">
 
-<img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>Desktop</strong>
+<img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>Toolbelt</strong>
 
-C# · WPF · MVVM
+Git · Vite · Vitest · NUnit · Claude Code
 
 </td>
 <td valign="top" width="50%">
 
-<img src="assets/chip-purple.svg" width="14" height="14" alt="" /> <strong>Tools & practice</strong>
+<img src="assets/chip-purple.svg" width="14" height="14" alt="" /> <strong>How I build</strong>
 
-Git · Vite · Vitest · NUnit · Claude Code
+Simple first, on solid fundamentals<br/>
+Accessible by default: keyboard, screen reader, dark mode<br/>
+State, rendering, behavior: each in its place<br/>
+Open by default: versioned, improved in the open
 
 </td>
 </tr>
@@ -55,79 +53,82 @@ Git · Vite · Vitest · NUnit · Claude Code
 ## What I'm working on
 
 <!-- DASHBOARD:START -->
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="34%">
+<td valign="middle" width="30%">
 
 <img src="assets/chip-gold.svg" width="14" height="14" alt="" /> <strong>For focus</strong>
 
 <em>Calm tools for scattered attention.</em>
 
 </td>
-<td valign="top" width="66%">
+<td valign="top" width="70%">
 
-<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a> ★ 1 — a calm, local-first desktop timer & alarm for Windows. Never a flashy notification.
+<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a> ★ 1: a calm desktop timer & alarm. Never a flashy notification.
 
-<a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a> ★ 1 — ADHD-friendly, open-source task app. A small flame, kept going.
+<a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a> ★ 1: ADHD-friendly task app. A small flame, kept going.
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="34%">
+<td valign="middle" width="30%">
 
 <img src="assets/chip-terracotta.svg" width="14" height="14" alt="" /> <strong>For people</strong>
 
 <em>Built for the humans on the other side.</em>
 
 </td>
-<td valign="top" width="66%">
+<td valign="top" width="70%">
 
-<a href="https://github.com/malinfossum/varde"><strong>varde</strong></a> — bilingual directory of Norwegian social services with verified contact details.
+<a href="https://github.com/malinfossum/varde"><strong>varde</strong></a>: a bilingual directory of Norwegian social services.
 
-<a href="https://github.com/malinfossum/kenaz"><strong>kenaz</strong></a> — a private, local-first daily wellbeing check-in. Compassionate reflection, not passive tracking.
+<a href="https://github.com/malinfossum/kenaz"><strong>kenaz</strong></a>: a private, local-first daily wellbeing check-in.
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="34%">
+<td valign="middle" width="30%">
 
 <img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>For the work</strong>
 
 <em>The craft, and the road to the job.</em>
 
 </td>
-<td valign="top" width="66%">
+<td valign="top" width="70%">
 
-<a href="https://github.com/wendhq/wend"><strong>wend</strong></a> ★ 2 — a free, open-source, accessible, dark-mode-first kanban board. A calm alternative to Trello.
+<a href="https://github.com/wendhq/wend"><strong>wend</strong></a> ★ 2: an accessible, dark-mode-first kanban board. A calm Trello alternative.
 
-<a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a> — command-line job radar for the Norwegian developer job market.
+<a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a>: a command-line job radar for the Norwegian dev market.
+
+</td>
+</tr>
+<tr>
+<td valign="middle" width="30%">
+
+<img src="assets/chip-purple.svg" width="14" height="14" alt="" /> <strong>For the dugnad</strong>
+
+<em>The Norwegian habit of showing up for shared work.</em>
+
+</td>
+<td valign="top" width="70%">
+
+<img src="assets/oss-merged.svg" width="250" height="36" alt="3 pull requests merged upstream" />
+
+<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a> ★ 60.9k: accessibility & UX fixes: <a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a>
 
 </td>
 </tr>
 </table>
 
-`13 original projects` · `C# — JavaScript — CSS` · `updated 2026-08-19`
+<p align="center"><code>13 original projects</code> · <code>C# — JavaScript — CSS</code> · <code>updated 2026-08-19</code></p>
 <!-- DASHBOARD:END -->
-
-## Open source
-
-<!-- CONTRIB:START -->
-<img src="assets/oss-merged.svg" width="250" height="36" alt="3 pull requests merged upstream" />
-
-Accessibility and UX fixes, sent upstream to projects I use myself.
-
-**[ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)** — Windows setup utility · 60.9k ★
-
-- [#4992](https://github.com/ChrisTitusTech/winutil/pull/4992) — screen reader names for the top-bar controls
-- [#4993](https://github.com/ChrisTitusTech/winutil/pull/4993) — accessible name for the font scaling slider
-- [#4995](https://github.com/ChrisTitusTech/winutil/pull/4995) — preset JSON key in app, tweak and feature tooltips
-<!-- CONTRIB:END -->
-
-## Contact
-
-- [Portfolio](https://malinfossum.github.io/portfolio/)
-- [LinkedIn](https://linkedin.com/in/malinfossum)
 
 ---
 
-*Working toward my first developer role. Building in the open until then.*
+<p align="center">
+  <img src="assets/varde.svg" width="28" height="28" alt="A beacon flame" />
+</p>
+
+<p align="center"><em>Flame kindles flame, said Hávamál a thousand years ago, and folk grow wise by talking.<br/>
+Progress grows from action. Action grows from will. Will grows from curiosity and empathy.<br/>
+Be kind: light the next beacon.</em></p>
