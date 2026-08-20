@@ -61,9 +61,9 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 <tr>
 <td valign="middle" width="30%">
 
-<img src="assets/chip-terracotta.svg" width="14" height="14" alt="" /> <strong>For the everyday</strong>
+<img src="assets/chip-terracotta.svg" width="14" height="14" alt="" /> <strong>For wellbeing</strong>
 
-<em>Making ordinary days a little easier.</em>
+<em>Making life a little easier.</em>
 
 </td>
 <td valign="top" width="70%">
@@ -79,12 +79,12 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 <img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>For momentum</strong>
 
-<em>Overview and rhythm, for the long haul.</em>
+<em>Keeping the work visible and moving.</em>
 
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/wendhq/wend"><strong>wend</strong></a> ★ 2: an accessible, dark-mode-first kanban board. A calm Trello alternative.
+<a href="https://github.com/wendhq/wend"><strong>wend</strong></a> ★ 2: a calm, accessible kanban board.
 
 <a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a>: a command-line job radar for the Norwegian dev market.
 
@@ -118,5 +118,5 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </p>
 
 <p align="center"><em>Flame kindles flame, said Hávamál a thousand years ago, and folk grow wise by talking.<br/>
-Progress grows from action. Action grows from will. Will grows from curiosity and empathy.<br/>
-Be kind: light the next beacon.</em></p>
+Action lights progress. Will lights action. Curiosity and empathy light the will.<br/>
+Be kind: light the next beacon. Someone will steer by it.</em></p>
