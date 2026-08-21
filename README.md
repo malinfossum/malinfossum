@@ -110,13 +110,13 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 <br/>
 
-<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a> ★ 60.9k: <a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a>
+<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a> ★ 61k: <a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a>
 
 </td>
 </tr>
 </table>
 
-<p align="center"><code>13 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>Python</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-08-20</code></p>
+<p align="center"><code>13 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>JavaScript</code> <code>C#</code> <code>CSS</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-08-21</code></p>
 <!-- DASHBOARD:END -->
 
 ---
