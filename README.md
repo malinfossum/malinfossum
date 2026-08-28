@@ -90,7 +90,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 <a href="https://github.com/wendhq/wend"><strong>wend</strong></a> ★ 2: a calm, accessible kanban board.
 
-<a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a>: job radar for the Norwegian developer job market: Brreg + NAV feed, CLI, local dashboard, and localhost API.
+<a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a>: job radar for the Norwegian developer job market.
 
 <a href="https://github.com/malinfossum/munin"><strong>munin</strong></a>: local semantic search over your AI memory files.
 
