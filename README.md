@@ -56,7 +56,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a> ★ 1: a calm desktop timer &amp; alarm.
+<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a> ★ 1: a calm desktop timer &amp; alarm for Windows.
 
 <a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a> ★ 1: ADHD-friendly task app.
 
@@ -90,7 +90,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 <a href="https://github.com/wendhq/wend"><strong>wend</strong></a> ★ 2: a calm, accessible kanban board.
 
-<a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a>: job radar for the Norwegian developer job market: Brreg + NAV feed, CLI, local dashboard, and localhost API.
+<a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a>: job radar for the Norwegian developer job market.
 
 <a href="https://github.com/malinfossum/munin"><strong>munin</strong></a>: local semantic search over your AI memory files.
 
@@ -118,7 +118,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </tr>
 </table>
 
-<p align="center"><code>14 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>CSS</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-08-28</code></p>
+<p align="center"><code>14 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>TypeScript</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-08-28</code></p>
 <!-- DASHBOARD:END -->
 
 ---
