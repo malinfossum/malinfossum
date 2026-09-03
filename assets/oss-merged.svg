@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 36" width="250" height="36"
-     role="img" aria-label="4 pull requests merged upstream">
+     role="img" aria-label="5 pull requests merged upstream">
   <defs>
     <radialGradient id="bg" cx="50%" cy="50%" r="90%">
       <stop offset="0%" stop-color="#14110d"/>
@@ -11,5 +11,5 @@
   <path d="M30 13 L35 18 L30 23 L25 18 Z" fill="#c9a96e"/>
   <text x="140" y="22.5" text-anchor="middle" fill="#f0ebe4"
         font-family="'Optima', 'Candara', 'Calibri', 'Segoe UI', system-ui, sans-serif"
-        font-size="13" letter-spacing="2">4 PRs MERGED UPSTREAM</text>
+        font-size="13" letter-spacing="2">5 PRs MERGED UPSTREAM</text>
 </svg>

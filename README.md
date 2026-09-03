@@ -106,11 +106,11 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<img src="assets/oss-merged.svg" width="250" height="36" alt="4 pull requests merged upstream" />
+<img src="assets/oss-merged.svg" width="250" height="36" alt="5 pull requests merged upstream" />
 
 <br/>
 
-<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a> ★ 61.8k: <a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a>
+<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a> ★ 61.8k: <a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a>
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a> ★ 11k: <a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
 
@@ -118,7 +118,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </tr>
 </table>
 
-<p align="center"><code>14 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>TypeScript</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-09-02</code></p>
+<p align="center"><code>14 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>TypeScript</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-09-03</code></p>
 <!-- DASHBOARD:END -->
 
 ---
