@@ -56,9 +56,9 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a>&ensp;&nbsp;<img src="assets/stars-1.svg" width="33" height="26" align="middle" alt="1 star" />&ensp;&nbsp;a calm desktop timer &amp; alarm for Windows.
+<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a>&ensp;&nbsp;<img src="assets/stars-1.svg" width="31" height="26" align="middle" alt="1 star" />&ensp;&nbsp;a calm desktop timer &amp; alarm for Windows.
 
-<a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a>&ensp;&nbsp;<img src="assets/stars-1.svg" width="33" height="26" align="middle" alt="1 star" />&ensp;&nbsp;ADHD-friendly task app.
+<a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a>&ensp;&nbsp;<img src="assets/stars-1.svg" width="31" height="26" align="middle" alt="1 star" />&ensp;&nbsp;ADHD-friendly task app.
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/wendhq/wend"><strong>wend</strong></a>&ensp;&nbsp;<img src="assets/stars-2.svg" width="33" height="26" align="middle" alt="2 stars" />&ensp;&nbsp;a calm, accessible kanban board.
+<a href="https://github.com/wendhq/wend"><strong>wend</strong></a>&ensp;&nbsp;<img src="assets/stars-2.svg" width="32" height="26" align="middle" alt="2 stars" />&ensp;&nbsp;a calm, accessible kanban board.
 
 <a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a>&ensp;&nbsp;job radar for the Norwegian developer job market.
 
@@ -110,9 +110,9 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 <br/>
 
-<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-62.3k.svg" width="54" height="26" align="middle" alt="62.3k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a>
+<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-62.3k.svg" width="52" height="26" align="middle" alt="62.3k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a>
 
-<a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.1k.svg" width="54" height="26" align="middle" alt="11.1k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
+<a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.1k.svg" width="47" height="26" align="middle" alt="11.1k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
 
 </td>
 </tr>
