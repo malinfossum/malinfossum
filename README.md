@@ -110,7 +110,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 <br/>
 
-<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-62.4k.svg" width="52" height="26" align="middle" alt="62.4k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a>
+<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-62.5k.svg" width="52" height="26" align="middle" alt="62.5k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a>
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.1k.svg" width="47" height="26" align="middle" alt="11.1k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
 
@@ -118,7 +118,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </tr>
 </table>
 
-<p align="center"><code>14 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>TypeScript</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-09-11</code></p>
+<p align="center"><code>14 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>TypeScript</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-09-12</code></p>
 <!-- DASHBOARD:END -->
 
 ---
