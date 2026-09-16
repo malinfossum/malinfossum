@@ -106,15 +106,13 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<img src="assets/oss-merged.svg" width="250" height="36" alt="9 pull requests merged upstream" />
+<img src="assets/oss-merged.svg" width="250" height="36" alt="5 pull requests merged upstream" />
 
 <br/>
 
 <a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-62.7k.svg" width="52" height="26" align="middle" alt="62.7k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a>
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.1k.svg" width="47" height="26" align="middle" alt="11.1k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
-
-<a href="https://github.com/rookdex/rookdex"><strong>rookdex/rookdex</strong></a>&ensp;&nbsp;<a href="https://github.com/rookdex/rookdex/pull/1">#1</a> · <a href="https://github.com/rookdex/rookdex/pull/8">#8</a> · <a href="https://github.com/rookdex/rookdex/pull/9">#9</a> · <a href="https://github.com/rookdex/rookdex/pull/10">#10</a>
 
 </td>
 </tr>
