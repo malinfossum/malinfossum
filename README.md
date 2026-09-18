@@ -4,11 +4,11 @@
 
 # Hi, I'm Malin.
 
-Fullstack developer in Norway: I build clean, accessible apps end to end, with a focus on structure, clarity, and solid fundamentals.
+Fullstack developer in Norway: I build clean apps end to end, with a focus on structure, clarity, and solid fundamentals.
 
-Came to code from social work. The instinct, listening and meeting people where they are, now lives in how I build.
+I build for all, because it benefits all. A tool, an app or a website should work for everyone, whatever they bring to it. That is not an extra I add at the end: it is the structure I think, plan and code in.
 
-Social work also taught me that progress starts with showing up. On GitHub that means building in the open, and leaving the tools I use better than I found them.
+Came to code from social work. The instinct, listening and meeting people where they are, now lives in how I build. Progress starts with showing up: on GitHub that means building in the open, and leaving the tools I use better than I found them.
 
 ---
 
