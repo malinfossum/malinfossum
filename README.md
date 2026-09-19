@@ -8,7 +8,7 @@ Fullstack developer in Norway: clean, accessible apps built end to end, from the
 
 Accessibility is where I start, not where I finish. I build for all, because it benefits all: a tool, an app or a website should work for everyone, whatever they bring to it. It shows in what I ship, and upstream: my first merged open-source contributions were accessibility fixes.
 
-I came to code from social work: years of listening, meeting people where they are, and untangling systems never designed for the people inside them. That instinct now lives in how I build: in the open, documented as I go, leaving the tools I use better than I found them. Off the clock: a cat, a garden, and a lasting admiration for how Mercedes engineers the small details. I'm still looking for a game that feels the way the original Black Ops, Halo 3 and San Andreas did, and I have quietly put that hope on GTA VI.
+I came to code from social work: years of listening, meeting people where they are, and untangling systems never designed for the people inside them. That instinct now lives in how I build: in the open, documented as I go, leaving the tools I use better than I found them. Off the clock: a cat, a view over Mjøsa, and a soft spot for how Mercedes engineers the small details. Still looking for a game that feels like the original Black Ops, Halo Reach and San Andreas did. GTA VI, no pressure.
 
 ---
 
