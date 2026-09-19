@@ -4,11 +4,11 @@
 
 # Hi, I'm Malin.
 
-Fullstack developer in Norway: I build clean apps end to end, with a focus on structure, clarity, and solid fundamentals.
+Fullstack developer in Norway: clean, accessible apps built end to end, from the database to the last focus ring, on solid fundamentals.
 
-I build for all, because it benefits all. A tool, an app or a website should work for everyone, whatever they bring to it. That is not an extra I add at the end: it is the structure I think, plan and code in.
+Accessibility is where I start, not where I finish. I build for all, because it benefits all: a tool, an app or a website should work for everyone, whatever they bring to it. It shows in what I ship, and upstream: my first merged open-source contributions were accessibility fixes.
 
-Came to code from social work. The instinct, listening and meeting people where they are, now lives in how I build. Progress starts with showing up: on GitHub that means building in the open, and leaving the tools I use better than I found them.
+I came to code from social work: years of listening, meeting people where they are, and untangling systems never designed for the people inside them. That instinct now lives in how I build: in the open, documented as I go, leaving the tools I use better than I found them. Off the clock: a cat, a view over Mjøsa, and a soft spot for how Mercedes engineers the small details. Still looking for a game that feels like the original Black Ops, Halo Reach and San Andreas did. GTA VI, no pressure.
 
 ---
 
