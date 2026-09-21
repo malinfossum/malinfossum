@@ -4,11 +4,11 @@
 
 # Hi, I'm Malin.
 
-Fullstack developer in Norway, building clean, accessible software end to end: from the database to the last focus ring. Accessibility is part of the foundation, not a finishing pass. I build for all, because it benefits all; my first merged open-source contributions were accessibility fixes.
+Full-stack developer in Norway, building clean, accessible software end to end—from the database to the last focus ring. Accessibility is part of the foundation, not a finishing pass; my first merged open-source contributions were accessibility fixes.
 
-I came to code from social work: years of listening, meeting people where they are, and untangling systems never designed for the people inside them. That perspective shapes how I build: in the open, documented as I go, leaving the tools I use better than I found them.
+I came to code from social work, bringing years of listening, meeting people where they are, and untangling systems not designed for the people inside them. That perspective shapes how I build: in the open, documented as I go, and leaving the tools I use better than I found them.
 
-Off the clock: a cat, a view over Mjøsa, a soft spot for how Mercedes engineers the small details, and a lasting fondness for the original Black Ops, Halo Reach and San Andreas. GTA VI, no pressure.
+Off the clock: a cat, a view over Mjøsa, an appreciation for Mercedes engineering, and a soft spot for the original Black Ops, Halo Reach, and San Andreas. GTA VI, no pressure.
 
 ---
 
