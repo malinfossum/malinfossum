@@ -4,15 +4,15 @@
 
 # Hi, I'm Malin.
 
-Fullstack developer in Norway: clean, accessible apps built end to end, from the database to the last focus ring, on solid fundamentals.
+Full-stack developer in Norway, building clean, accessible software end to end—from the database to the last focus ring. Accessibility is part of the foundation, not a finishing pass; my first merged open-source contributions were accessibility fixes.
 
-Accessibility is where I start, not where I finish. I build for all, because it benefits all: a tool, an app or a website should work for everyone, whatever they bring to it. It shows in what I ship, and upstream: my first merged open-source contributions were accessibility fixes.
+I came to code from social work, bringing years of listening, meeting people where they are, and untangling systems not designed for the people inside them. That perspective shapes how I build: in the open, documented as I go, and leaving the tools I use better than I found them.
 
-I came to code from social work: years of listening, meeting people where they are, and untangling systems never designed for the people inside them. That instinct now lives in how I build: in the open, documented as I go, leaving the tools I use better than I found them. Off the clock: a cat, a view over Mjøsa, and a soft spot for how Mercedes engineers the small details. Still looking for a game that feels like the original Black Ops, Halo Reach and San Andreas did. GTA VI, no pressure.
+Off the clock: a cat, a view over Mjøsa, an appreciation for Mercedes engineering, and a soft spot for the original Black Ops, Halo Reach, and San Andreas. GTA VI, no pressure.
 
 ---
 
-## Workflow
+## Stack
 
 <table align="center">
 <tr>
@@ -42,7 +42,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 ---
 
-## What I'm working on
+## Selected work
 
 <!-- DASHBOARD:START -->
 <table align="center">
@@ -127,6 +127,6 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
   <img src="assets/varde.svg" width="28" height="28" alt="A beacon flame" />
 </p>
 
-<p align="center"><em>Flame kindles flame, said Hávamál a thousand years ago, and folk grow wise by talking.<br/>
-Action lights progress. Will lights action. Curiosity and empathy light the will.<br/>
+<p align="center"><em>Flame kindles flame, says the Hávamál, and folk grow wise by talking.<br/>
+Curiosity and empathy light the will; action turns it into progress.<br/>
 Be kind: light the next beacon. Someone will steer by it.</em></p>
