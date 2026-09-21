@@ -56,9 +56,9 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a>&ensp;&nbsp;<img src="assets/stars-1.svg" width="31" height="26" align="middle" alt="1 star" />&ensp;&nbsp;a calm desktop timer &amp; alarm for Windows.
+<a href="https://github.com/malinfossum/tidsro"><strong>tidsro</strong></a>&ensp;&nbsp;a calm desktop timer &amp; alarm for Windows.
 
-<a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a>&ensp;&nbsp;<img src="assets/stars-1.svg" width="31" height="26" align="middle" alt="1 star" />&ensp;&nbsp;ADHD-friendly task app.
+<a href="https://github.com/malinfossum/ignite"><strong>ignite</strong></a>&ensp;&nbsp;ADHD-friendly task app.
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/wendhq/wend"><strong>wend</strong></a>&ensp;&nbsp;<img src="assets/stars-2.svg" width="32" height="26" align="middle" alt="2 stars" />&ensp;&nbsp;a calm, accessible kanban board.
+<a href="https://github.com/wendhq/wend"><strong>wend</strong></a>&ensp;&nbsp;a calm, accessible kanban board.
 
 <a href="https://github.com/malinfossum/hugin"><strong>hugin</strong></a>&ensp;&nbsp;job radar for the Norwegian developer job market.
 
@@ -118,7 +118,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </tr>
 </table>
 
-<p align="center"><code>15 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>C#</code> <code>JavaScript</code> <code>TypeScript</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-09-21</code></p>
+<p align="center"><code>Selected from 15 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-09-21</code></p>
 <!-- DASHBOARD:END -->
 
 ---
