@@ -20,7 +20,7 @@ Off the clock: a cat, a view over Mjøsa, an appreciation for Mercedes engineeri
 
 <img src="assets/chip-gold.svg" width="14" height="14" alt="" /> <strong>Frontend</strong>
 
-TypeScript · React · JavaScript · HTML · CSS
+TypeScript · React · Astro · JavaScript · HTML · CSS
 
 </td>
 <td valign="top" width="33%">
@@ -34,7 +34,7 @@ C# · ASP.NET Core · EF Core · PostgreSQL
 
 <img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>Tools</strong>
 
-Git · Vite · Vitest · NUnit · Claude&nbsp;Code
+Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 
 </td>
 </tr>
@@ -46,6 +46,22 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 
 <!-- DASHBOARD:START -->
 <table align="center">
+<tr>
+<td valign="middle" width="30%">
+
+<img src="assets/chip-blue.svg" width="14" height="14" alt="" /> <strong>For play</strong>
+
+<em>Games and music, taken seriously.</em>
+
+</td>
+<td valign="top" width="70%">
+
+<a href="https://github.com/rookdex/rookdex"><strong>rookdex</strong></a>&ensp;&nbsp;the open-source GTA VI companion.
+
+<a href="https://github.com/malinfossum/spindle"><strong>spindle</strong></a>&ensp;&nbsp;a local music library for organizing physical LP and CD collections.
+
+</td>
+</tr>
 <tr>
 <td valign="middle" width="30%">
 
@@ -118,7 +134,7 @@ Git · Vite · Vitest · NUnit · Claude&nbsp;Code
 </tr>
 </table>
 
-<p align="center"><code>Selected from 15 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-09-21</code></p>
+<p align="center"><code>Selected from 15 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-09-22</code></p>
 <!-- DASHBOARD:END -->
 
 ---
