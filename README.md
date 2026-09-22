@@ -58,7 +58,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 
 <a href="https://github.com/rookdex/rookdex"><strong>rookdex</strong></a>&ensp;&nbsp;the open-source GTA VI companion.
 
-<a href="https://github.com/malinfossum/spindle"><strong>spindle</strong></a>&ensp;&nbsp;a local music library for organizing physical LP and CD collections.
+<a href="https://github.com/malinfossum/spindle"><strong>spindle</strong></a>&ensp;&nbsp;a local library for your LP and CD collection.
 
 </td>
 </tr>
