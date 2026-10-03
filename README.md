@@ -126,7 +126,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 
 <br/>
 
-<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-63.5k.svg" width="52" height="26" align="middle" alt="63.5k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a>
+<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-63.6k.svg" width="53" height="26" align="middle" alt="63.6k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a>
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.1k.svg" width="47" height="26" align="middle" alt="11.1k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
 
