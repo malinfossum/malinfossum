@@ -56,7 +56,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/rookdex/rookdex"><strong>rookdex</strong></a>&ensp;&nbsp;the open-source GTA VI companion: a countdown, a tracker and a straight answer on what&#x27;s actually confirmed.
+<a href="https://github.com/rookdex/rookdex"><strong>rookdex</strong></a>&ensp;&nbsp;the open-source GTA VI companion.
 
 <a href="https://github.com/malinfossum/spindle"><strong>spindle</strong></a>&ensp;&nbsp;a local library for your LP and CD collection.
 
