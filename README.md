@@ -115,6 +115,20 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 <tr>
 <td valign="middle" width="30%">
 
+<img src="assets/chip-red.svg" width="14" height="14" alt="" /> <strong>For love</strong>
+
+<em>Small things, made with love.</em>
+
+</td>
+<td valign="top" width="70%">
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="middle" width="30%">
+
 <img src="assets/chip-purple.svg" width="14" height="14" alt="" /> <strong>For everyone</strong>
 
 <em>Open source: showing up for the tools we share.</em>
@@ -126,7 +140,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 
 <br/>
 
-<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-63.9k.svg" width="53" height="26" align="middle" alt="63.9k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a>
+<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-64k.svg" width="44" height="26" align="middle" alt="64k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a>
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.2k.svg" width="48" height="26" align="middle" alt="11.2k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
 
@@ -134,7 +148,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </tr>
 </table>
 
-<p align="center"><code>Selected from 17 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-10-10</code></p>
+<p align="center"><code>Selected from 17 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-10-11</code></p>
 <!-- DASHBOARD:END -->
 
 ---
