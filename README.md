@@ -122,7 +122,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-
+<a href="https://github.com/malinfossum/mango-buddy"><strong>mango-buddy</strong></a>&ensp;&nbsp;a fluffy black cat above your Claude Code prompt.
 
 </td>
 </tr>
@@ -148,7 +148,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </tr>
 </table>
 
-<p align="center"><code>Selected from 17 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-10-11</code></p>
+<p align="center"><code>Selected from 17 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-10-12</code></p>
 <!-- DASHBOARD:END -->
 
 ---
