@@ -56,7 +56,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/rookdex/rookdex"><strong>rookdex</strong></a>&ensp;&nbsp;the open-source GTA VI companion.
+<a href="https://github.com/rookdex/rookdex"><strong>rookdex</strong></a>&ensp;&nbsp;the open-source GTA VI companion: a launch countdown, a tracker and a straight answer on what is actually confirmed.
 
 <a href="https://github.com/malinfossum/spindle"><strong>spindle</strong></a>&ensp;&nbsp;a local library for your LP and CD collection.
 
@@ -136,7 +136,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<img src="assets/oss-merged.svg" width="250" height="36" alt="6 pull requests merged upstream" />
+<img src="assets/oss-merged.svg" width="250" height="36" alt="7 pull requests merged upstream" />
 
 <br/>
 
@@ -144,11 +144,13 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.2k.svg" width="48" height="26" align="middle" alt="11.2k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
 
+<a href="https://github.com/motorcatalog/motorcatalog"><strong>motorcatalog/motorcatalog</strong></a>&ensp;&nbsp;<a href="https://github.com/motorcatalog/motorcatalog/pull/1">#1</a>
+
 </td>
 </tr>
 </table>
 
-<p align="center"><code>Selected from 19 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-10-12</code></p>
+<p align="center"><code>Selected from 17 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-10-13</code></p>
 <!-- DASHBOARD:END -->
 
 ---
