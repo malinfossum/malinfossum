@@ -136,7 +136,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<img src="assets/oss-merged.svg" width="250" height="36" alt="7 pull requests merged upstream" />
+<img src="assets/oss-merged.svg" width="250" height="36" alt="13 pull requests merged upstream" />
 
 <br/>
 
@@ -144,7 +144,9 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.2k.svg" width="48" height="26" align="middle" alt="11.2k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
 
-<a href="https://github.com/motorcatalog/motorcatalog"><strong>motorcatalog/motorcatalog</strong></a>&ensp;&nbsp;<a href="https://github.com/motorcatalog/motorcatalog/pull/1">#1</a>
+<a href="https://github.com/motorcatalog/motorcatalog"><strong>motorcatalog/motorcatalog</strong></a>&ensp;&nbsp;<a href="https://github.com/motorcatalog/motorcatalog/pull/1">#1</a> · <a href="https://github.com/motorcatalog/motorcatalog/pull/5">#5</a> · <a href="https://github.com/motorcatalog/motorcatalog/pull/10">#10</a> · <a href="https://github.com/motorcatalog/motorcatalog/pull/13">#13</a> · <a href="https://github.com/motorcatalog/motorcatalog/pull/14">#14</a> · <a href="https://github.com/motorcatalog/motorcatalog/pull/15">#15</a>
+
+<a href="https://github.com/motorcatalog/.github"><strong>motorcatalog/.github</strong></a>&ensp;&nbsp;<a href="https://github.com/motorcatalog/.github/pull/1">#1</a>
 
 </td>
 </tr>
