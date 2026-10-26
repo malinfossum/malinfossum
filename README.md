@@ -56,7 +56,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<a href="https://github.com/rookdex/rookdex"><strong>rookdex</strong></a>&ensp;&nbsp;GTA VI companion: a countdown, a tracker and a straight answer on what is actually confirmed.
+<a href="https://github.com/rookdex/rookdex"><strong>rookdex</strong></a>&ensp;&nbsp;GTA VI companion: a countdown, a tracker and what is confirmed.
 
 <a href="https://github.com/malinfossum/spindle"><strong>spindle</strong></a>&ensp;&nbsp;a local library for your LP and CD collection.
 
@@ -140,7 +140,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 
 <br/>
 
-<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-65k.svg" width="44" height="26" align="middle" alt="65k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5062">#5062</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a>
+<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-65.1k.svg" width="50" height="26" align="middle" alt="65.1k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5062">#5062</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a>
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.2k.svg" width="48" height="26" align="middle" alt="11.2k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
 
