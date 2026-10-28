@@ -142,13 +142,13 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 
 <a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-65.1k.svg" width="50" height="26" align="middle" alt="65.1k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5062">#5062</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a>
 
-<a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.2k.svg" width="48" height="26" align="middle" alt="11.2k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
+<a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.3k.svg" width="48" height="26" align="middle" alt="11.3k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
 
 </td>
 </tr>
 </table>
 
-<p align="center"><code>Selected from 16 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-10-27</code></p>
+<p align="center"><code>Selected from 16 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-10-28</code></p>
 <!-- DASHBOARD:END -->
 
 ---
