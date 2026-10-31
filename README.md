@@ -148,7 +148,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </tr>
 </table>
 
-<p align="center"><code>Selected from 16 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-10-30</code></p>
+<p align="center"><code>Selected from 16 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-10-31</code></p>
 <!-- DASHBOARD:END -->
 
 ---
