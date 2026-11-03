@@ -136,11 +136,11 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<img src="assets/oss-merged.svg" width="250" height="36" alt="7 pull requests merged upstream" />
+<img src="assets/oss-merged.svg" width="250" height="36" alt="8 pull requests merged upstream" />
 
 <br/>
 
-<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-65.4k.svg" width="52" height="26" align="middle" alt="65.4k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5062">#5062</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a>
+<a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-65.5k.svg" width="52" height="26" align="middle" alt="65.5k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5062">#5062</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5223">#5223</a>
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.3k.svg" width="48" height="26" align="middle" alt="11.3k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a>
 
