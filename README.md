@@ -4,7 +4,7 @@
 
 # Hi, I'm Malin.
 
-Full-stack developer in Norway, building clean, accessible software end to end: from the database to the last focus ring. Accessibility is part of the foundation, not a finishing pass; my first merged open-source contributions were accessibility fixes.
+Full-stack developer in Norway. I like to be part of the whole process, from the first idea to the release. Accessibility is part of the foundation, not a finishing pass. My first merged open-source contributions were accessibility fixes.
 
 I came to code from social work, bringing years of listening, meeting people where they are, and untangling systems not designed for the people inside them. That perspective shapes how I build: in the open, documented as I go, and leaving the tools I use better than I found them.
 
