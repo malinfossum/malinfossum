@@ -4,9 +4,11 @@
 
 # Hi, I'm Malin.
 
-Full-stack developer in Norway, building clean, accessible software end to end: from the database to the last focus ring. Accessibility is part of the foundation, not a finishing pass; my first merged open-source contributions were accessibility fixes.
+I'm a developer in Norway who likes to be part of the whole process, from the first idea to the release. Accessibility is part of the foundation, not a finishing pass. My first merged open-source contributions were accessibility fixes.
 
 I came to code from social work, bringing years of listening, meeting people where they are, and untangling systems not designed for the people inside them. That perspective shapes how I build: in the open, documented as I go, and leaving the tools I use better than I found them.
+
+I use Claude Code every day, and for more than code. It keeps my process structured and consistent, automates the steps I would otherwise repeat, and helps me keep learning as I go.
 
 Off the clock: a cat, a view over Mjøsa, an appreciation for Mercedes engineering, and a soft spot for the original Black Ops, Halo Reach, and San Andreas. GTA VI, no pressure.
 
