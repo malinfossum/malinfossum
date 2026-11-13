@@ -136,21 +136,23 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<img src="assets/oss-merged.svg" width="250" height="36" alt="11 pull requests merged upstream" />
+<img src="assets/oss-merged.svg" width="250" height="36" alt="12 pull requests merged upstream" />
 
 <br/>
 
 <a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-66k.svg" width="45" height="26" align="middle" alt="66k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5062">#5062</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5223">#5223</a>
 
-<a href="https://github.com/NVIDIA/SkillSpector"><strong>NVIDIA/SkillSpector</strong></a>&ensp;&nbsp;<img src="assets/stars-25.7k.svg" width="51" height="26" align="middle" alt="25.7k stars" />&ensp;&nbsp;<a href="https://github.com/NVIDIA/SkillSpector/pull/492">#492</a>
+<a href="https://github.com/NVIDIA/SkillSpector"><strong>NVIDIA/SkillSpector</strong></a>&ensp;&nbsp;<img src="assets/stars-25.8k.svg" width="52" height="26" align="middle" alt="25.8k stars" />&ensp;&nbsp;<a href="https://github.com/NVIDIA/SkillSpector/pull/492">#492</a>
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.3k.svg" width="48" height="26" align="middle" alt="11.3k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/466230">#466230</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/477389">#477389</a>
+
+<a href="https://github.com/SpecterShell/Dumplings"><strong>SpecterShell/Dumplings</strong></a>&ensp;&nbsp;<img src="assets/stars-61.svg" width="37" height="26" align="middle" alt="61 stars" />&ensp;&nbsp;<a href="https://github.com/SpecterShell/Dumplings/pull/161">#161</a>
 
 </td>
 </tr>
 </table>
 
-<p align="center"><code>Selected from 16 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-11-12</code></p>
+<p align="center"><code>Selected from 16 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-11-13</code></p>
 <!-- DASHBOARD:END -->
 
 ---
