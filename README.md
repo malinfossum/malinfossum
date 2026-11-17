@@ -47,7 +47,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 <!-- DASHBOARD:START -->
 <table align="center">
 <tr>
-<td valign="middle" width="30%">
+<td valign="top" width="30%">
 
 <img src="assets/chip-blue.svg" width="14" height="14" alt="" /> <strong>For play</strong>
 
@@ -63,7 +63,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 </tr>
 <tr>
-<td valign="middle" width="30%">
+<td valign="top" width="30%">
 
 <img src="assets/chip-gold.svg" width="14" height="14" alt="" /> <strong>For focus</strong>
 
@@ -79,7 +79,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 </tr>
 <tr>
-<td valign="middle" width="30%">
+<td valign="top" width="30%">
 
 <img src="assets/chip-terracotta.svg" width="14" height="14" alt="" /> <strong>For wellbeing</strong>
 
@@ -95,7 +95,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 </tr>
 <tr>
-<td valign="middle" width="30%">
+<td valign="top" width="30%">
 
 <img src="assets/chip-teal.svg" width="14" height="14" alt="" /> <strong>For momentum</strong>
 
@@ -113,7 +113,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 </tr>
 <tr>
-<td valign="middle" width="30%">
+<td valign="top" width="30%">
 
 <img src="assets/chip-red.svg" width="14" height="14" alt="" /> <strong>For love</strong>
 
@@ -127,7 +127,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 </tr>
 <tr>
-<td valign="middle" width="30%">
+<td valign="top" width="30%">
 
 <img src="assets/chip-purple.svg" width="14" height="14" alt="" /> <strong>For everyone</strong>
 
@@ -136,13 +136,11 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </td>
 <td valign="top" width="70%">
 
-<img src="assets/oss-merged.svg" width="250" height="36" alt="12 pull requests merged upstream" />
-
-<br/>
+<p><img src="assets/oss-merged.svg" width="250" height="48" alt="12 pull requests merged upstream" /></p>
 
 <a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-66.2k.svg" width="52" height="26" align="middle" alt="66.2k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5062">#5062</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5223">#5223</a>
 
-<a href="https://github.com/NVIDIA/SkillSpector"><strong>NVIDIA/SkillSpector</strong></a>&ensp;&nbsp;<img src="assets/stars-26.5k.svg" width="52" height="26" align="middle" alt="26.5k stars" />&ensp;&nbsp;<a href="https://github.com/NVIDIA/SkillSpector/pull/492">#492</a>
+<a href="https://github.com/NVIDIA/SkillSpector"><strong>NVIDIA/SkillSpector</strong></a>&ensp;&nbsp;<img src="assets/stars-26.6k.svg" width="52" height="26" align="middle" alt="26.6k stars" />&ensp;&nbsp;<a href="https://github.com/NVIDIA/SkillSpector/pull/492">#492</a>
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.3k.svg" width="48" height="26" align="middle" alt="11.3k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/466230">#466230</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/477389">#477389</a>
 
