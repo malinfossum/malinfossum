@@ -140,7 +140,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 
 <a href="https://github.com/ChrisTitusTech/winutil"><strong>ChrisTitusTech/winutil</strong></a>&ensp;&nbsp;<img src="assets/stars-66.4k.svg" width="53" height="26" align="middle" alt="66.4k stars" />&ensp;&nbsp;<a href="https://github.com/ChrisTitusTech/winutil/pull/4992">#4992</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4993">#4993</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/4995">#4995</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5034">#5034</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5062">#5062</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5090">#5090</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5223">#5223</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5241">#5241</a> · <a href="https://github.com/ChrisTitusTech/winutil/pull/5258">#5258</a>
 
-<a href="https://github.com/NVIDIA/SkillSpector"><strong>NVIDIA/SkillSpector</strong></a>&ensp;&nbsp;<img src="assets/stars-26.9k.svg" width="52" height="26" align="middle" alt="26.9k stars" />&ensp;&nbsp;<a href="https://github.com/NVIDIA/SkillSpector/pull/492">#492</a>
+<a href="https://github.com/NVIDIA/SkillSpector"><strong>NVIDIA/SkillSpector</strong></a>&ensp;&nbsp;<img src="assets/stars-27k.svg" width="43" height="26" align="middle" alt="27k stars" />&ensp;&nbsp;<a href="https://github.com/NVIDIA/SkillSpector/pull/492">#492</a>
 
 <a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.3k.svg" width="48" height="26" align="middle" alt="11.3k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/466230">#466230</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/477389">#477389</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/479419">#479419</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/483916">#483916</a>
 
@@ -150,7 +150,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </tr>
 </table>
 
-<p align="center"><code>Selected from 16 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-11-19</code></p>
+<p align="center"><code>Selected from 16 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-11-20</code></p>
 <!-- DASHBOARD:END -->
 
 ---
