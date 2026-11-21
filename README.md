@@ -142,7 +142,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 
 <a href="https://github.com/NVIDIA/SkillSpector"><strong>NVIDIA/SkillSpector</strong></a>&ensp;&nbsp;<img src="assets/stars-27.1k.svg" width="49" height="26" align="middle" alt="27.1k stars" />&ensp;&nbsp;<a href="https://github.com/NVIDIA/SkillSpector/pull/492">#492</a>
 
-<a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.3k.svg" width="48" height="26" align="middle" alt="11.3k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/466230">#466230</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/477389">#477389</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/479419">#479419</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/483916">#483916</a>
+<a href="https://github.com/microsoft/winget-pkgs"><strong>microsoft/winget-pkgs</strong></a>&ensp;&nbsp;<img src="assets/stars-11.4k.svg" width="49" height="26" align="middle" alt="11.4k stars" />&ensp;&nbsp;<a href="https://github.com/microsoft/winget-pkgs/pull/423445">#423445</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/466230">#466230</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/477389">#477389</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/479419">#479419</a> · <a href="https://github.com/microsoft/winget-pkgs/pull/483916">#483916</a>
 
 <a href="https://github.com/SpecterShell/Dumplings"><strong>SpecterShell/Dumplings</strong></a>&ensp;&nbsp;<img src="assets/stars-63.svg" width="38" height="26" align="middle" alt="63 stars" />&ensp;&nbsp;<a href="https://github.com/SpecterShell/Dumplings/pull/161">#161</a>
 
@@ -150,7 +150,7 @@ Git · Vite · Vitest · Biome · NUnit · Claude&nbsp;Code
 </tr>
 </table>
 
-<p align="center"><code>Selected from 16 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-11-20</code></p>
+<p align="center"><code>Selected from 16 original projects</code> <img src="assets/dot-gold.svg" width="10" height="10" alt="·" /> <code>updated 2026-11-21</code></p>
 <!-- DASHBOARD:END -->
 
 ---
